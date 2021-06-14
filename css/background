@@ -1,0 +1,7 @@
+body {
+    background-image: url("https://th.bing.com/th/id/R0f0f0e9ce44a2e3898687235f5904c48?rik=c5fv0K5dzy%2btqw&riu=http%3a%2f%2fi0.hdslb.com%2fbfs%2farchive%2f0f339996f691528400b0ddc8e4afa4c71d18277a.jpg&ehk=q1y8mpufNMmF6I1V5kDAzaxJBlZKLXaNSd5NYZSik%2fs%3d&risl=&pid=ImgRaw");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
